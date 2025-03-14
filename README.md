@@ -29,11 +29,13 @@ This is a **personal portfolio website** designed to showcase my **skills, proje
 
 ## 📸 **Screenshots**  
 
-### 🌐 **Desktop View**  
-![Portfolio Website - Desktop View](https://drive.google.com/uc?export=view&id=12O5_RJA7IXAFg6pgKHcpR9H8o7_sniPq)  
+### 🌐 **Desktop & Mobile View**  
 
-### 📱 **Mobile View**  
-![Portfolio Website - Mobile View](https://drive.google.com/uc?export=view&id=1JG0FXVftlgFfPv_mNcsHJcBg6Rk3ttUE)  
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=12O5_RJA7IXAFg6pgKHcpR9H8o7_sniPq" alt="Desktop View" width="45%">
+  <img src="https://drive.google.com/uc?export=view&id=1JG0FXVftlgFfPv_mNcsHJcBg6Rk3ttUE" alt="Mobile View" width="45%">
+</p>
+
 
 ---
 
