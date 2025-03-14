@@ -30,10 +30,10 @@ This is a **personal portfolio website** designed to showcase my **skills, proje
 ## 📸 **Screenshots**  
 
 ### 🌐 **Desktop View**  
-![Portfolio Website - Desktop View](https://raw.githubusercontent.com/danish-farhan07/portfolio/main/screenshots/desktop-view.png)  
+![Portfolio Website - Desktop View](https://drive.google.com/file/d/12O5_RJA7IXAFg6pgKHcpR9H8o7_sniPq/view?usp=sharing)  
 
 ### 📱 **Mobile View**  
-![Portfolio Website - Mobile View](https://raw.githubusercontent.com/danish-farhan07/portfolio/main/screenshots/mobile-view.png)  
+![Portfolio Website - Mobile View](https://drive.google.com/file/d/1JG0FXVftlgFfPv_mNcsHJcBg6Rk3ttUE/view?usp=sharing)  
 
 ---
 
