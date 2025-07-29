@@ -1,10 +1,10 @@
 # 🚀 **Portfolio Website**  
 
-[![Website](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://danish-farhan07.github.io/portfolio/)  
-![GitHub repo size](https://img.shields.io/github/repo-size/danish-farhan07/portfolio?style=for-the-badge)  
-![GitHub stars](https://img.shields.io/github/stars/danish-farhan07/portfolio?style=for-the-badge)  
-![GitHub forks](https://img.shields.io/github/forks/danish-farhan07/portfolio?style=for-the-badge)  
-![GitHub license](https://img.shields.io/github/license/danish-farhan07/portfolio?style=for-the-badge)  
+[![Website](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://md-sonu07.github.io/portfolio/)  
+![GitHub repo size](https://img.shields.io/github/repo-size/md-sonu07/portfolio?style=for-the-badge)  
+![GitHub stars](https://img.shields.io/github/stars/md-sonu07/portfolio?style=for-the-badge)  
+![GitHub forks](https://img.shields.io/github/forks/md-sonu07/portfolio?style=for-the-badge)  
+![GitHub license](https://img.shields.io/github/license/md-sonu07/portfolio?style=for-the-badge)  
 
 ---
 
@@ -12,7 +12,7 @@
 
 This is a **personal portfolio website** designed to showcase my **skills, projects, and experience**. It features a **modern, interactive, and fully responsive** design, making it an ideal platform for displaying my work as a **web developer**.  
 
-🎯 **Live Preview:** [Portfolio Website](https://danish-farhan07.github.io/portfolio/)  
+🎯 **Live Preview:** [Portfolio Website](https://md-sonu07.github.io/portfolio/)  
 
 ---
 
@@ -45,7 +45,7 @@ Follow these steps to run the project **locally**:
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/danish-farhan07/portfolio.git
+git clone https://github.com/md-sonu07/portfolio.git
 ```  
 
 ### 2️⃣ Navigate to the Project Directory  
@@ -63,7 +63,7 @@ start index.html # Windows
 
 ## 📖 **Usage**  
 
-🔹 **Visit the Live Site:** [Portfolio Website](https://danish-farhan07.github.io/portfolio/)  
+🔹 **Visit the Live Site:** [Portfolio Website](https://md-sonu07.github.io/portfolio/)  
 🔹 **Explore My Projects and Skills**  
 🔹 **Use the Contact Form to Get in Touch**  
 
@@ -130,7 +130,7 @@ This project is **open-source** and available under the **MIT License**. See the
 ## 📬 **Contact Me**  
 
 📧 **Email:** [mdd301396@gmail.com](mailto:mdd301396@gmail.com)  
-🐙 **GitHub:** [danish-farhan07](https://github.com/danish-farhan07/)  
+🐙 **GitHub:** [md-sonu07](https://github.com/md-sonu07/)  
 🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/md-sonu-b369a632a/)  
 
 ---
